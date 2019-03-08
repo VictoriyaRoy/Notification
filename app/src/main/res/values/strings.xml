@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Notification</string>
+    <string name="send">Отправить уведомление</string>
+    <string name="title">Заголовок</string>
+    <string name="settings">Настройки уведомления</string>
+    <string name="text">Текст</string>
+</resources>
